@@ -1,0 +1,8 @@
+R1
+2
+xuehao          int            
+age             int            
+R2
+2
+name            10             
+age             int            
